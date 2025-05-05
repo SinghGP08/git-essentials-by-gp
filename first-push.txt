@@ -1,0 +1,5 @@
+This is the first push file ever. 
+	I have lucky to have reached so far in life. 
+:wq
+
+
